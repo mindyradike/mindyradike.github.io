@@ -21,9 +21,9 @@ A repository to create a personal portfolio website
 
 
 <!-- Navigation -->
-	<nav class="navbar navbar-inverse navbar-static-top" role="navigation" >
-    <div class="container">
-		<div class="navbar-header"> 
+	<nav class="navbar navbar-inverse navbar-static-top" role="navigation">
+	  <div class="container">
+		<div class="navbar-header">
 		  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
 						<span class="sr-only">Toggle navigation</span>
 						<span class="icon-bar"></span>
@@ -41,7 +41,7 @@ A repository to create a personal portfolio website
 		  </ul>
 		</div>
 	  </div>
-  </nav>
+	</nav>
   
   <!-- Page Content -->
     <div class="container">
@@ -58,7 +58,7 @@ A repository to create a personal portfolio website
                 
                 <div style="margin-top:3%; text-align:justify;">                
 					<p>This site houses my writing portfolio. Below, you will find summaries of the projects that I developed while earning my Master of Arts degree in Rhetoric and Composition at Texas State University, my CV and resume, and a taste of my journalistic blogging ventures. I hope that my passion for writing resonates with someone who is looking for help in bringing their esteemed ideas into the world.</p>
-            I take a creative approach not only to what can be said, but also to how it is said, without ever sacrificing practicality or the bottom line. These samples showcase my ability to work with software such as: InDesign, PremierePro, Audacity, Canva, Github, Word, and Figma. I published this site using HTML, but I have also dabbled in R Studio, Matlab, and Python. Now, I do not say this alleging to be a programmer; I mean this to say that I do not share the tech-averse heritage of other English majors. As a technologically curious self-starter who has worked in both the private and public sector, there is no industry I cannot write my way into. </p>
+            I take a creative approach not only to what can be said, but also to how it is said, without ever sacrificing practicality or the bottom line. These samples showcase my ability to work with software such as: InDesign, PremierePro, Audacity, Canva, Github, Word, and Figma. I built this site using HTML, but I have also dabbled in R Studio, Matlab, and Python. Now, I do not allege to be a programmer; I mean this to say that I do not share the tech-averse heritage of other English majors. As a technologically curious self-starter who has worked in both the private and public sector, there is no industry I cannot write my way into. </p>
             I can offer a unique combination of writing expertise, business experience, and technology training to any team that has an admirable mission and brilliant vision. If we sound like a fit, then let’s get in touch! </p>
 					
 					
@@ -68,17 +68,13 @@ A repository to create a personal portfolio website
             <!-- Contact Info on the Sidebar -->
             <div class="col-md-4">
                 <div style="font-family: 'Oswald', sans-serif; font-size: 32px;"><b>Mindy Radike</b></div><br>
-		
-                  <!-- Logo Image -->
-                  <img class="img-responsive" src="mindylogo.png"
-                  width="200.75"
-                  height="263" alt=""><br>
-		  
+                <!--Second Image-->
+                <img class="img-responsive" src="mindylogo.png"
+                width="150.75"
                 <p><b>Mindy at mindyradike.github.io</b><br>
                 <p>Writing Consultant<br>
                 Technical Editor<br>
                 Brand Writer<br>
-                Communications Specialist<br>
                 </p>
             </div>
             
@@ -107,8 +103,8 @@ A repository to create a personal portfolio website
                     <a href="gradewriting.pdf" , target="_blank">Grade Writing as a Process, not a Product</a>
                   </li>
                 </ul>
-           <!-- CV and Resume -->
-           <div class="col-md" style="height: 100vh;">
+          <!-- CV and Resume -->
+            <div class="col-md-8" style="height: 100vh;">
                 <h2 id="CV and Resume">CV and Resume</h2>
                 <ul>
                   <li>
@@ -120,7 +116,7 @@ A repository to create a personal portfolio website
     </div>
     
     <!-- Other people may like it too! -->
-    <a style="color:rgb(162, 216, 201);font-size:0.8em; float:right;" href="https://github.com/mavroudisv/plain-academic"> 
+    <a style="color:#b5bec9;font-size:0.8em; float:right;" href="https://github.com/mavroudisv/plain-academic"> 
     
 </body>
 
