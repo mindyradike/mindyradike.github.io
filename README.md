@@ -68,10 +68,12 @@ A repository to create a personal portfolio website
             <!-- Contact Info on the Sidebar -->
             <div class="col-md-4">
                 <div style="font-family: 'Oswald', sans-serif; font-size: 32px;"><b>Mindy Radike</b></div><br>
+		
                   <!-- Logo Image -->
                   <img class="img-responsive" src="mindylogo.png"
                   width="200.75"
                   height="263" alt=""><br>
+		  
                 <p><b>Mindy at mindyradike.github.io</b><br>
                 <p>Writing Consultant<br>
                 Technical Editor<br>
