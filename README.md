@@ -59,7 +59,7 @@ A repository to create a personal portfolio website
                 
                 <div style="margin-top:3%; text-align:justify;">                
 					<p>This site houses my writing portfolio. Below, you will find summaries of the projects that I developed while earning my Master of Arts degree in Rhetoric and Composition at Texas State University, my CV and resume, and select copy I have written and edited for various organizations. I hope that my passion for writing resonates with someone who is looking for help bringing their esteemed ideas into the world.</p>
-            I take a creative approach not only to what can be said, but also to how it is said, without ever sacrificing practicality or the bottom line. These samples showcase my ability to work with software such as: InDesign, PremierePro, Audacity, Canva, Github, Word, and Figma. I assembled this site using HTML, but I have also dabbled in R Studio, Matlab, and Python. Now, I do not say this alleging to be a programmer; I simply mean this to say that I do not share the tech-averse heritage of other English majors. As a technologically curious self-starter who has worked in the private and public sectors, there is no industry I cannot write my way into. </p>
+            I take a creative approach not only to what can be said but also to how it is said without sacrificing practicality or the bottom line. These samples showcase my ability to work with software such as: InDesign, PremierePro, Audacity, Canva, Github, Word, and Figma. I assembled this site using HTML, but I have also dabbled in R Studio, Matlab, and Python. Now, I do not say this alleging to be a programmer; I simply mean this to say that I do not share the tech-averse heritage of other English majors. As a technologically curious self-starter who has worked in the private and public sectors, there is no industry I cannot write my way into. </p>
             I can offer a unique combination of writing expertise, business experience, and technology training to any team that has an admirable mission and brilliant vision. If we sound like a fit, then let’s get in touch! </p>
 					
 					
@@ -109,7 +109,7 @@ A repository to create a personal portfolio website
               <h2 id="Copy">Copy</h2>
               <ul>
                 <li>
-                  <a href="UTHSCSAbrochure.png" , target="_blank">UTHSCSA Writing Lab Brochure</a>
+                  <a href="UTHSCSA Brochure.pdf" , target="_blank">UTHSCSA Writing Lab Brochure</a>
                 </li>
                 <li>
                   <a href="UWCproposaldraft.pdf" , target="_blank">Draft of TXST Writing Center 2023-27 Strategic Planning Proposal for Allocated Funding</a>
@@ -132,10 +132,10 @@ A repository to create a personal portfolio website
                 <h2 id="CV and Resume">CV and Resume</h2>
                 <ul>
                   <li>
-                    <a href="CV.pdf" , target="_blank">CV</a>
+                    <a href="Mindy.Radike.CV.pdf" , target="_blank">CV</a>
                   </li>
                   <li>
-                    <a href="Resume.pdf" , target="_blank">Resume</a>
+                    <a href="Mindy.Radike.Resume.pdf" , target="_blank">Resume</a>
                 </ul>
     </div>
     
@@ -145,9 +145,3 @@ A repository to create a personal portfolio website
 </body>
 
 </html>
-
-    
-</body>
-
-</html>
-
